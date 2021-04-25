@@ -5,7 +5,7 @@ Calls to https://currencyfreaks.com/ to get dollar convertions.
 You need to add a ```.env``` file like that:
 
 ```
-- add
+\app
     - api.go
     - controllers.go
     - http_client.go
