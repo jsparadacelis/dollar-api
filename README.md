@@ -9,7 +9,7 @@ You need to add a ```.env``` file like that:
     - api.go
     - controllers.go
     - http_client.go
-- .env
+.env
 ```
 This ```.env``` file has this data:
 
